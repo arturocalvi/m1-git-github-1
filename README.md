@@ -20,7 +20,7 @@ git remote -v
 ```
 ## Finalizando
 ```
-git add
-git commit
-git push
+git add .
+git commit -m "Mensaje de cambios"
+git push origin master
 ```
